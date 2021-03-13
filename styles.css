@@ -1,0 +1,70 @@
+body {
+  text-align: center;
+  background-color: #283149;
+}
+
+h1 {
+  font-size: 5rem;
+  color: #DBEDF3;
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 #DA0463;
+
+}
+.crash{
+  position: absolute;
+  right: 19%;
+  width: 150px;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+.snare{
+  position: absolute;
+  left: 20%;
+  top: 50%;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+.kick{
+  position: absolute;
+  top: 60%;
+  left: 30%;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+  
+}
+.tom1{
+  position: absolute;
+  left: 38%;
+  top: 35%
+
+}
+.tom2{
+  position: absolute;
+  right: 38%;
+  top: 35%;
+}
+.tom3{
+  position: absolute;
+  top: 60%;
+  right: 30%;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+.tom4{
+  position: absolute;
+  top: 70%;
+  right: 41%;
+  border-radius: 10%;
+  border-style: solid;
+  border-color: black;
+  border-width: 5px;
+}
+
